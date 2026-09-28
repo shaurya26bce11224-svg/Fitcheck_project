@@ -1,4 +1,4 @@
-# NutriFit: Project Statement
+# Fitcheck: Project Statement
 
 ## Problem Statement
 
@@ -8,14 +8,14 @@ What's missing is one simple, offline tool that puts these calculations in one p
 
 ## Scope of the Project
 
-**What NutriFit does:**
+**What Fitcheck does:**
 - Calculates BMI and classifies it (underweight, healthy weight, overweight, obese).
 - Calculates Basal Metabolic Rate (BMR) using the Mifflin-St Jeor equation for males and females.
 - Calculates Total Daily Energy Expenditure (TDEE) from BMR and five activity levels.
 - Estimates body fat percentage for adult men, adult women, boys and girls.
 - Runs as a menu-driven console application that keeps going until the user chooses to exit.
 
-**What NutriFit does not do (out of scope for now):**
+**What Fitcheck does not do (out of scope for now):**
 - It does not give medical diagnoses or diet plans.
 - It does not store user data, create accounts, or connect to the internet.
 - It does not have a graphical interface.
