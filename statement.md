@@ -37,3 +37,4 @@ No technical or medical background is needed to use it.
 4. **Body fat estimator** for adults and children.
 5. **Looping main menu** so several calculations can be done in one session.
 6. **Fully offline and private**, so nothing is saved or shared.
+7. 
