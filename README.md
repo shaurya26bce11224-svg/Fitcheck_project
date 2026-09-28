@@ -115,7 +115,10 @@ Input validation and retry loops, a single consistent unit system, splitting the
 ## Disclaimer
 
 Fitcheckis a student project built for learning. It gives estimates only and is **not** a substitute for advice from a doctor or a registered dietitian.
-
+## Screenshot
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-28 at 22 52 13" src="https://github.com/user-attachments/assets/191045b9-a7f0-4694-b1b5-362e01ec3c8c" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-28 at 22 52 13 (2)" src="https://github.com/user-attachments/assets/013f872b-1b1f-4f73-9709-bf42dfcf78dd" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-28 at 22 52 13 (1)" src="https://github.com/user-attachments/assets/d02ad2db-0df7-401e-a06a-f02035661a81" />
 ## Author
 
 **[Shaurya Vashishtha]** | Reg. No. [26BCE11224] | [introduction to problem solving and programming], VIT
