@@ -49,8 +49,8 @@ fitcheck/
    ```
 2. Clone the repository (or just download the ZIP):
    ```bash
-   git clone https://github.com/<shaurya26bce11224-svg>/fitcheck.git
-   cd Fitcheck
+   git clone https://github.com/shaurya26bce11224-svg/Fitcheck_project.git
+   cd Fitcheck_project
    ```
 3. Run the program:
    ```bash
